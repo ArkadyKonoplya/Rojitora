@@ -1,0 +1,22 @@
+.notice-title .notice-title-header {
+    font-size: 30px;
+    color: #2c5aa0;
+}
+
+.notice-title .notice-title-body {
+    font-size: 22px;
+    color: #000;
+}
+
+.notice-content .notice-head {
+    font-size: 20px;
+    color: #000;
+    font-family: 'Meiryo';
+    margin-top: 15px;
+}
+
+.notice-content .notice-body {
+    font-size: 14px;
+    color: #000;
+    font-family: 'Meiryo';
+}

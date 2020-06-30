@@ -1,0 +1,15 @@
+PATCH /api/luggage/search HTTP/2.0
+Accept:          application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,ko;q=0.8
+Content-Length:  179
+Content-Type:    application/json;charset=UTF-8
+Cookie:          XSRF-TOKEN=eyJpdiI6Im0yTnRJODRyUW9lUnFVVERwbVRoS1E9PSIsInZhbHVlIjoidnRuTFY1ZVwvb2FcL254VG1oOFpoVXkyUUt4aUhvbXQzbis5c1hYaFJJMENnK0pcL1o2enZxakpzRks4XC9HT216VmciLCJtYWMiOiJjYjE2OTJhMTQyYTg0MmI2NjU4YTgyODY1YzQ4ZTk0NWIzODZmZmZkZTQzN2RmZTcxZjZkNzY4ZThhZDBmODM3In0%3D; laravel_session=eyJpdiI6IjBFVVN5Q3B3ZTRGazZENXpiZ1NlUnc9PSIsInZhbHVlIjoiNkZtMFVLVnU1SllOR3MwUlJGMXpHODB2Wm1jeGZNZjd5VHU4TEpQWVdvaGtTbUdOVFNEWHZFc29rVENcL1pKRWoiLCJtYWMiOiJiODZkNDg2MWM1YmRkYmI1MDg0NzRlNjBjYmI0ZTBmMzMyMDllMTE3YThiZTllNjkyYTg4ZTEzOTVjYmNiYjExIn0%3D
+Host:            test1.playthriftgift.com
+Origin:          https://test1.playthriftgift.com
+Referer:         https://test1.playthriftgift.com/membership
+User-Agent:      Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+X-Xsrf-Token:    eyJpdiI6Im0yTnRJODRyUW9lUnFVVERwbVRoS1E9PSIsInZhbHVlIjoidnRuTFY1ZVwvb2FcL254VG1oOFpoVXkyUUt4aUhvbXQzbis5c1hYaFJJMENnK0pcL1o2enZxakpzRks4XC9HT216VmciLCJtYWMiOiJjYjE2OTJhMTQyYTg0MmI2NjU4YTgyODY1YzQ4ZTk0NWIzODZmZmZkZTQzN2RmZTcxZjZkNzY4ZThhZDBmODM3In0=
+Cookie: XSRF-TOKEN=eyJpdiI6Im0yTnRJODRyUW9lUnFVVERwbVRoS1E9PSIsInZhbHVlIjoidnRuTFY1ZVwvb2FcL254VG1oOFpoVXkyUUt4aUhvbXQzbis5c1hYaFJJMENnK0pcL1o2enZxakpzRks4XC9HT216VmciLCJtYWMiOiJjYjE2OTJhMTQyYTg0MmI2NjU4YTgyODY1YzQ4ZTk0NWIzODZmZmZkZTQzN2RmZTcxZjZkNzY4ZThhZDBmODM3In0=; laravel_session=eyJpdiI6IjBFVVN5Q3B3ZTRGazZENXpiZ1NlUnc9PSIsInZhbHVlIjoiNkZtMFVLVnU1SllOR3MwUlJGMXpHODB2Wm1jeGZNZjd5VHU4TEpQWVdvaGtTbUdOVFNEWHZFc29rVENcL1pKRWoiLCJtYWMiOiJiODZkNDg2MWM1YmRkYmI1MDg0NzRlNjBjYmI0ZTBmMzMyMDllMTE3YThiZTllNjkyYTg4ZTEzOTVjYmNiYjExIn0=
+
+{"accumulate_city":"null","accumulate_country":"null","accumulate_start":"","accumulate_end":"","landing_city":"null","landing_country":"null","landing_start":"","landing_end":""}

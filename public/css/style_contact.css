@@ -1,0 +1,222 @@
+.kt-action_wrapper .kt-action_title {
+    font-family: 'Meiryo';
+    font-size: 30px;
+    font-weight: 500;
+    color: #000000;
+    -webkit-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+}
+
+.kt-action_info__content .kt-widget5_section-left .btn {
+    background-color: #ff6600;
+    box-shadow: 0px 5px #9e3f00;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.kt-action_info__content .kt-widget5_section-right .btn {
+    background-color: #396ec2;
+    box-shadow: 0px 5px #21519d;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.btn.btn-wide {
+    width: 153px;
+}
+
+.kt-widget5__content .btn-wide {
+    color: #ffffff;
+}
+
+.kt-action_info__content .kt-widget5__item {
+    padding-right: 1rem;
+}
+
+div.kt-action_wrapper {
+    background-color: #ebebeb;
+    padding-top: 43px;
+    padding-bottom: 43px;
+}
+
+div.kt-action_wrapper.right-widget {
+    margin-left: 12px;
+}
+
+div.kt-action_wrapper.left-widget {
+    margin-right: 12px;
+}
+
+.kt-action_info__content .kt-widget5__item {
+    background-color: #ebebeb;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.tooltip .contact_img::before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .contact_img {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.form-group .input-group {
+    margin-bottom: 15px;
+}
+
+.fa.fa-circle.icon {
+    margin-right: 10px;
+    padding-top: 20px;
+}
+
+.kt-portlet__body.form-check {
+    background-color: #efefef;
+    margin-left: -25px;
+    margin-right: -25px;
+    color: #000000;
+}
+
+.input-group>.form-control:not(:first-child),
+.input-group>.custom-select:not(:first-child) {
+    border-radius: 4px;
+}
+
+@media (max-width: 1095px) {
+    div.kt-action_wrapper.right-widget {
+        margin-right: 12px;
+        margin-top: 12px;
+    }
+    div.kt-action_wrapper.left-widget {
+        margin-left: 12px;
+    }
+}
+
+.ask_sign .ask-sign-title {
+    font-size: 38px;
+    color: #000000;
+}
+
+.form-group .form-control.address {
+    margin-top: 3px;
+}
+
+.kt-form__actions .conculusion {
+    font-size: 20px;
+    font-family: initial;
+}
+
+.reset.btn {
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #ea6565;
+}
+
+.kt-portlet .kt-portlet__space-x {
+    font-size: 16px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    background-color: #ebebeb;
+}
+
+.kt-portlet__space-x .loads-check {
+    font-size: 16px;
+    background-color: #ff6600;
+    width: 100%;
+    height: 38px;
+    text-align: center;
+    padding-top: 10px;
+    color: #fff;
+    margin-bottom: -10px;
+}
+
+.kt-portlet .kt-portlet__space-x {
+    background-color: #ebebeb;
+    /* padding: 0, 0px; */
+}
+
+
+/* div.col-xl-2 {
+    background-color: #ebebeb;
+    border-radius: 4px;
+} */
+
+.kt-portlet .kt-portlet_check {
+    background-color: #ebebebeb;
+}
+
+.kt-portlet_check .kt-form .from_text {
+    /* float: left; */
+    width: 100%;
+    font-size: 120%;
+    font-weight: bold;
+    transform: rotate(90deg);
+    margin-bottom: 5px;
+}
+
+.kt-portlet__space-x .emptytruck-check {
+    font-size: 16px;
+    background-color: #003487;
+    width: 100%;
+    height: 38px;
+    text-align: center;
+    padding-top: 10px;
+    color: #fff;
+    margin: -30px 0px;
+}
+
+.kt-portlet .kt-portlet_check {
+    margin-top: -10px;
+}
+
+.ask_sign .required-sign {
+    margin-right: -20px;
+}
+
+.kt-form__control.first_control .bootstrap-select,
+.kt-form__control.second_control .bootstrap-select {
+    padding-left: 10px;
+}
+
+.kt-form__label.filter_sort {
+    padding-left: 7px;
+}
+
+nav .pagination li a {
+    border-radius: 50%;
+    background-color: #ff6600;
+    width: 3.74rem;
+    height: 3.74rem;
+    margin: 0.08rem;
+    color: #fff;
+}
+
+.col-xl-10.row.align-items-center>select {
+    border: 1px solid #dadada;
+}

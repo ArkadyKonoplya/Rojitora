@@ -1,0 +1,94 @@
+body {
+    color: #000;
+}
+
+.luggage-header .luggage-search {
+    font-size: 30px;
+}
+
+.luggage-header .message {
+    font-size: 20px;
+}
+
+.kt-portlet__head {
+    background-color: #ebebeb;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter__number {
+    width: 55%;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline {
+    width: 100%;
+}
+
+.kt-portlet__body .sort_sign {
+    background-color: #ebebeb;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter_sort {
+    width: 23%
+}
+
+.luggage_search .kt-portlet__body {
+    padding: 25px 10px;
+}
+
+.kt-form__group.kt-form__group--inline .kt-form__control.first_control {
+    padding-right: 10px;
+    width: 50%;
+}
+
+
+/* .kt-form__group.kt-form__group--inline .first_control {
+    padding-right: 10px;
+    width: 50%;
+} */
+
+.col-xl-1 .kt-margin-b-20-tablet-and-mobile .btn-elevate {
+    background-color: #ff6600;
+    border-color: #ff6600;
+    width: 150%;
+    border-radius: 10px;
+}
+
+table thead {
+    background-color: #ff6600;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+
+table thead tr .shipper {
+    width: 5%;
+}
+
+.table thead tr .number {
+    width: 7%;
+}
+
+table thead tr .tel {
+    width: 12%;
+}
+
+table thead tr .loding-space {
+    width: 6%;
+}
+
+table thead tr .type {
+    width: 7%;
+}
+
+.luggage-header .message .search_message .search_message_carry {
+    font-size: 20px;
+    border: 1px solid #ff6600;
+    border-radius: 30px;
+    padding: 10px 15px;
+    color: #ff6600;
+}
+
+.col-md-4.kt-margin-b-20-tablet-and-mobile .check-sort select {
+    border: 1px solid #dadada;
+}

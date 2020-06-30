@@ -1,0 +1,72 @@
+body {
+    color: #000;
+}
+
+.luggage-header .luggage-search {
+    font-size: 30px;
+}
+
+.luggage-header .message .search_message .search_message_carry {
+    font-size: 20px;
+    border: 1px solid #6b92d1;
+    border-radius: 30px;
+    padding: 10px 15px;
+    color: #6b92d1;
+}
+
+.kt-portlet__head {
+    background-color: #ebebeb;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter__number {
+    width: 55%;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline {
+    width: 100%;
+}
+
+.kt-portlet__body .sort_sign {
+    background-color: #ebebeb;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter_sort {
+    width: 23%
+}
+
+.luggage_search .kt-portlet__body {
+    padding: 25px 10px;
+}
+
+.kt-form__group.kt-form__group--inline .kt-form__control.first_control {
+    padding-right: 10px;
+    width: 50%;
+}
+
+.col-xl-1 .kt-margin-b-20-tablet-and-mobile .btn-elevate {
+    background-color: #396ec2;
+    border-color: #396ec2;
+    width: 150%;
+    border-radius: 10px;
+}
+
+table thead {
+    background-color: #396ec2;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+
+nav .pagination li a {
+    background-color: #396ec2;
+}
+
+.col-md-4.kt-margin-b-20-tablet-and-mobile .check-sort select {
+    border: 1px solid #dadada;
+}
+
+.check-sort .kt-form__label.filter_sort {
+    padding-left: 0.538rem;
+}

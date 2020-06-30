@@ -1,0 +1,73 @@
+body {
+    color: #000;
+}
+
+.luggage-header .luggage-search {
+    font-size: 30px;
+}
+
+.luggage-header .message {
+    font-size: 20px;
+}
+
+.kt-portlet__head {
+    background-color: #ebebeb;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter__number {
+    width: 55%;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline {
+    width: 100%;
+}
+
+.kt-portlet__body .sort_sign {
+    background-color: #ebebeb;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.kt-form .kt-form__group.kt-form__group--inline .filter_sort {
+    width: 23%
+}
+
+.luggage_search .kt-portlet__body {
+    padding: 25px 10px;
+}
+
+.kt-portlet__body.kt-portlet__body--fit {
+    margin: 0rem -0.769rem 0rem;
+}
+
+.kt-form__group.kt-form__group--inline .kt-form__control.first_control {
+    padding-right: 10px;
+    width: 50%;
+}
+
+.col-xl-1 .kt-margin-b-20-tablet-and-mobile .btn-elevate {
+    background-color: #396ec2;
+    border-color: #396ec2;
+    width: 150%;
+    border-radius: 10px;
+}
+
+.kt-form.kt-form--label-right .delete_result .btn-elevate {
+    color: #fff;
+}
+
+.kt-form.kt-form--label-right .delete_result {
+    margin: 0.77rem -2.308rem 0rem;
+    color: #fff;
+}
+
+table thead {
+    background-color: #396ec2;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+
+nav .pagination li a {
+    background-color: #396ec2;
+}
