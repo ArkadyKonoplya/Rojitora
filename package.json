@@ -31,7 +31,7 @@
         "@websanova/vue-auth": "^2.21.14-beta",
         "bootstrap-vue": "^2.0.0-rc.27",
         "es6-promise": "^4.2.8",
-        "jquery-ui": "^1.12.1",
+        "jquery-ui": "^1.13.2",
         "vee-validate": "^2.2.13",
         "vue-bootstrap-datetimepicker": "^5.0.1",
         "vue-session": "^1.0.0",
